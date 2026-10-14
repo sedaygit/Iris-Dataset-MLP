@@ -41,8 +41,8 @@ The model is built using TensorFlow's `Sequential` API with the following struct
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/sedaygit/Iris_Dataset_MLP.git
-cd Iris_Dataset_MLP
+git clone https://github.com/sedaygit/Iris-Dataset-MLP.git
+cd Iris-Dataset-MLP
 ```
 2. Run the script:
 ```bash
